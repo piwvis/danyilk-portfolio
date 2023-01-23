@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://piwvis.github.io/danyilk-portfolio/static/css/main.bcac0e6f.css",
-    "main.js": "https://piwvis.github.io/danyilk-portfolio/static/js/main.d333f33a.js",
+    "main.js": "https://piwvis.github.io/danyilk-portfolio/static/js/main.487b163b.js",
     "static/js/787.69b166a3.chunk.js": "https://piwvis.github.io/danyilk-portfolio/static/js/787.69b166a3.chunk.js",
     "index.html": "https://piwvis.github.io/danyilk-portfolio/index.html",
     "main.bcac0e6f.css.map": "https://piwvis.github.io/danyilk-portfolio/static/css/main.bcac0e6f.css.map",
-    "main.d333f33a.js.map": "https://piwvis.github.io/danyilk-portfolio/static/js/main.d333f33a.js.map",
+    "main.487b163b.js.map": "https://piwvis.github.io/danyilk-portfolio/static/js/main.487b163b.js.map",
     "787.69b166a3.chunk.js.map": "https://piwvis.github.io/danyilk-portfolio/static/js/787.69b166a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcac0e6f.css",
-    "static/js/main.d333f33a.js"
+    "static/js/main.487b163b.js"
   ]
 }
