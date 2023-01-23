@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/danyilk-portfolio/static/css/main.bcac0e6f.css",
+    "main.js": "/danyilk-portfolio/static/js/main.2fc3cba5.js",
+    "static/js/787.69b166a3.chunk.js": "/danyilk-portfolio/static/js/787.69b166a3.chunk.js",
+    "index.html": "/danyilk-portfolio/index.html",
+    "main.bcac0e6f.css.map": "/danyilk-portfolio/static/css/main.bcac0e6f.css.map",
+    "main.2fc3cba5.js.map": "/danyilk-portfolio/static/js/main.2fc3cba5.js.map",
+    "787.69b166a3.chunk.js.map": "/danyilk-portfolio/static/js/787.69b166a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcac0e6f.css",
+    "static/js/main.2fc3cba5.js"
+  ]
+}
