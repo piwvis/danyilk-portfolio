@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/danyilk-portfolio/static/css/main.bcac0e6f.css",
-    "main.js": "/danyilk-portfolio/static/js/main.097b4259.js",
-    "static/js/787.69b166a3.chunk.js": "/danyilk-portfolio/static/js/787.69b166a3.chunk.js",
-    "index.html": "/danyilk-portfolio/index.html",
-    "main.bcac0e6f.css.map": "/danyilk-portfolio/static/css/main.bcac0e6f.css.map",
-    "main.097b4259.js.map": "/danyilk-portfolio/static/js/main.097b4259.js.map",
-    "787.69b166a3.chunk.js.map": "/danyilk-portfolio/static/js/787.69b166a3.chunk.js.map"
+    "main.css": "https://piwvis.github.io/danyilk-portfolio/static/css/main.bcac0e6f.css",
+    "main.js": "https://piwvis.github.io/danyilk-portfolio/static/js/main.d333f33a.js",
+    "static/js/787.69b166a3.chunk.js": "https://piwvis.github.io/danyilk-portfolio/static/js/787.69b166a3.chunk.js",
+    "index.html": "https://piwvis.github.io/danyilk-portfolio/index.html",
+    "main.bcac0e6f.css.map": "https://piwvis.github.io/danyilk-portfolio/static/css/main.bcac0e6f.css.map",
+    "main.d333f33a.js.map": "https://piwvis.github.io/danyilk-portfolio/static/js/main.d333f33a.js.map",
+    "787.69b166a3.chunk.js.map": "https://piwvis.github.io/danyilk-portfolio/static/js/787.69b166a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcac0e6f.css",
-    "static/js/main.097b4259.js"
+    "static/js/main.d333f33a.js"
   ]
 }
